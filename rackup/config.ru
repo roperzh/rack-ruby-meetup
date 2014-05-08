@@ -1,3 +1,3 @@
-require './application.rb'
+require "./application.rb"
 
 run MyCoolApplication.new
